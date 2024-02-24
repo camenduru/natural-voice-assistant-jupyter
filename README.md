@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/natural-voice-assistant-jupyter/blob/main/natural_voice_assistant_jupyter.ipynb) | natural_voice_assistant_jupyter
+
 
 ### 🧬 Code
 https://github.com/LAION-AI/natural_voice_assistant <br />
